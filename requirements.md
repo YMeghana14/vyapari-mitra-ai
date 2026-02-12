@@ -469,13 +469,13 @@ The following features and capabilities are explicitly excluded from the current
 
 ### Responsible AI Metrics
 
-1. **Transparency**: 100% of predictions include probabilistic disclaimers and confidence indicators.
+1. **Transparency**: 100% of predictions will include probabilistic disclaimers and confidence indicators.
 
-2. **Explainability**: 90%+ of users report understanding the reasoning behind recommendations (based on surveys).
+2. **Explainability**: At least 90% of pilot users should report understanding the reasoning behind recommendations.
 
-3. **Fairness**: No statistically significant performance differences across retailer segments (region, product category, business size).
+3. **Fairness**: No statistically significant performance variation across retailer segments.
 
-4. **User Trust**: 75%+ of users report trusting the system as a decision support tool (based on surveys).
+4. **User Trust**: At least 75% of pilot users should report trusting the system as a decision-support tool.
 
 ### Data Quality Metrics
 
