@@ -22,7 +22,7 @@ The solution leverages AWS cloud services to deliver a scalable, secure, and cos
 
 ## High-Level AWS Architecture
 
-![Architecture Diagram](https://file%2B.vscode-resource.vscode-cdn.net/Users/yerramsetti_meghana%40optum.com/Documents/Learning/vyapari-mitra-ai/hackathon_architecture.jpg?version%3D1770888552152)
+![Architecture Diagram](hackathon_architecture.jpg)
 
 ## Component Descriptions
 
